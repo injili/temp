@@ -1,0 +1,9 @@
+@import url("https://api.fontshare.com/v2/css?f[]=azeret-mono@100&f[]=clash-display@700&display=swap");
+@import "tailwindcss";
+
+@theme {
+	--color-primary: #fc0301;
+	--color-secondary: #818cf8;
+	--font-mono: "Azeret Mono", sans-serif;
+	--font-display: "Clash Display", sans-serif;
+}
