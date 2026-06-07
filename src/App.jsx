@@ -54,7 +54,7 @@ export default function App() {
 			</div>
 
 			{/* Main content */}
-			<div className="flex flex-col w-full p-4 md:p-8 lg:p-12 flex-1 justify-end pb-8 md:pb-12">
+			<div className="flex flex-col w-full p-4 md:p-8 lg:p-12 flex-1 justify-center pb-8 md:pb-12">
 				{/* Big headline */}
 				<div ref={headlineRef} className="flex flex-col mb-8 md:mb-10">
 					<p
